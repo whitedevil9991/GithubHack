@@ -1,0 +1,22 @@
+{
+  "name": "github-h",
+  "version": "1.0.0",
+  "description": "This repository is for educational purposes lol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitedevil9991/Github-H.git"
+  },
+  "author": "revant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitedevil9991/Github-H/issues"
+  },
+  "homepage": "https://github.com/whitedevil9991/Github-H#readme",
+  "dependencies": {
+    "simple-git": "^3.5.0"
+  }
+}
