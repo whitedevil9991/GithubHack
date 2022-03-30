@@ -1,2 +1,2 @@
 # Github-H
-This repository is for educational purposes lol
+This repository is for educational purposes, mostly fun purposes lol
