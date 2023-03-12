@@ -1,3 +1,3 @@
 # Github-H
-This repository is for educational purposes, mostly fun purposes lol
-this code started commits from march31
+For educational purposes.
+this code starts automated commits on github from march31, you can copy and modify the code to your needs. 
